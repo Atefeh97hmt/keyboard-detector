@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f0f0f0;
+    direction: rtl;
+  }
+  #output {
+    font-size: 2em;
+    color: #333;
+  }
